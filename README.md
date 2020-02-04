@@ -1,2 +1,3 @@
 # IA-tests
-Smalls Aplicatiosn for artificial intelligence
+Smalls Aplicatiosn for artificial intelligence of course:
+udemy artificial-intelligence
